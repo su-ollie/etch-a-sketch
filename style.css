@@ -1,0 +1,9 @@
+.cell {
+    border: 1px solid gray;
+    min-width: 10px;
+    min-height: 20px;
+    display: inline-block;
+}
+#canvas {
+    background-color: black;
+}
